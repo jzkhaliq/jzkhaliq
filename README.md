@@ -1,7 +1,7 @@
 # Hi, I'm Jehanzaib 👋
 
 🎓 Sophomore CS Student @ University of Illinois Chicago  
-🌙 **SadaqahPlus (Private Repo)** – accountability app with automated donations & habit tracking
+🌙 **SadaqahPlus (Private Repo)** – accountability app with automated donations & habit tracking  
 💡 Passionate about software engineering, app development, and impactful projects  
 
 ---
