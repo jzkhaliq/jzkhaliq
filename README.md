@@ -1,22 +1,23 @@
 # Hi, I'm Jehanzaib 👋
 
 🎓 Sophomore CS Student @ University of Illinois Chicago  
-🌙 **SadaqahPlus (Private Repo)** – accountability app with automated donations & habit tracking  
-💡 Passionate about software engineering, app development, and impactful projects  
+🌙 **Revive at UIC** – Secretary, built [reviveatuic.org](https://reviveatuic.org)    
+💡 Passionate about software engineering, full-stack development
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C++, Java, SQL, HTML/CSS/JS  
-- **Frameworks/Tools:** React, Firebase, Git  
+- **Languages:** Python, C++
+- **Frameworks/Tools:** React.js, Tailwind CSS, Firebase, Cloudflare, Git  
 - **Focus Areas:** Full-stack dev, mobile apps, web scraping, backend systems  
 
 ---
 
 ### 📌 Projects
-- 🌙 **SadaqahPlus** – accountability app with automated donations & habit tracking  
+
 - 🗓️ **[UIC Course Scheduler](https://github.com/jzkhaliq/course-scheduler-uic)** – scraper + planner for 94 majors  
-- 🎮 **HalfGammon** – Half of Backgammon in C++ (CS141 project)
+- 🌙 **[Revive at UIC Website](https://reviveatuic.org)** – student org site with events, mentorship, and community info
+
 
 ---
 
