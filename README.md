@@ -1,9 +1,13 @@
 # Hi, I'm Jehanzaib 👋
 
-🎓 Senior Computer Science student at the University of Illinois Chicago
+🎓 Senior studying Computer Science at the University of Illinois Chicago
+
 💻 Data Engineer at PolarisIO
+
 🤝 Founding Co-President of the Muslim Tech Collaborative
+
 🌙 Former Co-President and Founding Secretary of Revive at UIC
+
 
 I am passionate about data engineering, backend systems, software engineering, full-stack development, and AI integrations.
 
